@@ -25,28 +25,32 @@ Teams and individuals are evaluated on the following criteria:
 4. Design
 
 ## Inspiration
-DeWi will prioritize any proposal that has clear potential for near-term positive impact on the Helium ecosystem. 
+DeWi will prioritize any proposal that brings near-term positive impact on the Helium ecosystem. 
 We strongly encourage new ideas and perspectives that provide evidence or affirmation of demand for the product or service in question.
 
-Absent your own project concept, here are some community sourced projects that don't yet have an owner.
+Absent your own project concept, here are some community inspired themes. 
+Submit via the general application or email **grants@dewi.org**
 
-| Project                                             | Notes                                        |  Claimed  
+| Project                                             | Notes                                        
+|-----------------------------------------------------|----------------------------------------------
+| HNT <> ETH bridge                                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
+| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools                             
+| HNT wallet                                          | A user-friendly wallet for desktop or browser integration           
+| Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                         
+| Documentation translation                           | Make docs.helium.com available in other languages                    
+| Security and/privacy overview                       | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
+| Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up 
+
+## Bounties
+Want to contribute immediately? The following projects are looking for owners. 
+
+| Project                                             | Notes                                        |  Value  
 |-----------------------------------------------------|----------------------------------------------|----------------------
-| HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | No 
-| HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | No
-| HNT <> ETH bridge                                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    | No  
-| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools                              | No 
-| HNT wallet                                          | A user-friendly wallet for desktop or browser integration            | No 
-| Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                          | No 
-| Documentation translation                           | Make docs.helium.com available in other languages                    | No
-| Security and/privacy overview              | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)  | No
-| Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up | No
+| HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | $10,000 of HNT
+| HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | $5,000 of HNT
 
-
-## Start Building
-
-* [Helium Overview](https://docs.helium.com/)
+## Resources
 * [Helium Documentation](https://docs.helium.com/)
-* [Community Discussion](https://discorg.gg/helium)
+* [Community Discussion on Discord](https://discorg.gg/helium)
 
 
