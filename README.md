@@ -3,7 +3,7 @@
 
 * Grant Program Launch: February 2021
 * Contribution Areas: Developer and User Tools, Token Infrastructure, Community Education
-* [General Application](https://br4aui5909k.typeform.com/to/D3wdDC0X)
+* [General Grant Application](https://br4aui5909k.typeform.com/to/D3wdDC0X)
 
 ## Introduction
 Powered by the Helium Blockchain, The People’s Network is a global, peer-to-peer wireless network that provides a secure and cost-effective way for devices to interact with the internet. To date, the network provides long-range wireless coverage for LoRaWAN-enabled low-power IoT devices. In the future, the Helium Blockchain and The People’s Network could similarly run on other wireless networks.
@@ -52,5 +52,6 @@ Want to contribute immediately? The following projects are looking for owners.
 ## Resources
 * [Helium Documentation](https://docs.helium.com/)
 * [Community Discussion on Discord](https://discorg.gg/helium)
+* [Grant Application](https://br4aui5909k.typeform.com/to/D3wdDC0X)
 
 
