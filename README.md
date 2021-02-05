@@ -24,7 +24,7 @@ Teams and individuals are evaluated on the following criteria:
 3. Novelty
 4. Design
 
-**Inspiration**
+## Inspiration
 DeWi will prioritize any proposal that has clear potential for near-term positive impact on the Helium ecosystem. 
 We strongly encourage new ideas and perspectives that provide evidence or affirmation of demand for the product or service in question.
 
@@ -32,7 +32,8 @@ Absent your own project concept, here are some community sourced projects that d
 
 | Project                                             | Notes                                        |  Claimed  
 |-----------------------------------------------------|----------------------------------------------|----------------------
-| HIP 12 remote location assert                       | See [HIP12](https://br4aui5909k.typeform.com/to/D3wdDC0X)            | No 
+| HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | No 
+| HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | No
 | HNT <> ETH bridge                                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    | No  
 | Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools                              | No 
 | HNT wallet                                          | A user-friendly wallet for desktop or browser integration            | No 
@@ -41,7 +42,11 @@ Absent your own project concept, here are some community sourced projects that d
 | Security and/privacy overview              | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)  | No
 | Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up | No
 
+
 ## Start Building
 
+* [Helium Overview](https://docs.helium.com/)
 * [Helium Documentation](https://docs.helium.com/)
 * [Community Discussion](https://discorg.gg/helium)
+
+
