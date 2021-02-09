@@ -28,18 +28,20 @@ Teams and individuals are evaluated on the following criteria:
 DeWi will prioritize any proposal that brings near-term positive impact on the Helium ecosystem. 
 We strongly encourage new ideas and perspectives that provide evidence or affirmation of demand for the product or service in question.
 
-Absent your own project concept, here are some community inspired themes. 
-Submit via the general application or email **grants@dewi.org**
+Submit your project ideas via the [general application](https://br4aui5909k.typeform.com/to/D3wdDC0X) or email **grants@dewi.org**
+
+For inspiration, here are some community-suggested ideas: 
+
 
 | Project                                             | Notes                                        
 |-----------------------------------------------------|----------------------------------------------
-| HNT <> ETH bridge                                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
-| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools                             
-| HNT wallet                                          | A user-friendly wallet for desktop or browser integration           
-| Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                         
-| Documentation translation                           | Make docs.helium.com available in other languages                    
-| Security and/privacy overview                       | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
-| Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up 
+| HNT<>ETH bridge                                     | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
+| Ongoing improvements for DeWi ETL                   | Queries, dashboards and other blockchain analysis projects for https://etl.dewi.org                             
+| Browser HNT wallet                                  | A Metamask-style wallet that could be used for transfers and login/authentication
+| Manufacturer stats dashboard                        | Show units sold, online/deployed, HNT burnt                         
+| Translate developer docs                            | Make docs.helium.com available in other languages                    
+| Security/privacy docs for hosts                     | Create educational materials to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
+| Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior; anomoly detection; trust scores; crowdsourced data; documentation of current cheating techniques; alerts when suspicious networks pop up 
 
 ## Bounties
 Want to contribute immediately? The following projects are looking for owners. 
@@ -47,7 +49,7 @@ Want to contribute immediately? The following projects are looking for owners.
 | Project                                             | Notes                                        |  Value  
 |-----------------------------------------------------|----------------------------------------------|----------------------
 | HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | $10,000 of HNT
-| HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | $5,000 of HNT
+| HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | $10,000 of HNT
 
 ## Resources
 * [Helium Documentation](https://docs.helium.com/)
