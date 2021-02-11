@@ -33,11 +33,12 @@ Submit via the general application or email **grants@dewi.org**
 
 | Project                                             | Notes                                        
 |-----------------------------------------------------|----------------------------------------------
-| HNT <> ETH bridge                                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
-| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools                             
-| HNT wallet                                          | A user-friendly wallet for desktop or browser integration           
+| HNT <> ETH trust minimized bridge                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
+| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools. Examples: how much data flowing through the network, how frequently, how many hotspots have transmitted data, geographic distribution of data transmission, transaction activity in DC and HNT burnt.       
+| HNT browser wallet                                  | A user-friendly wallet for macOS and Windows. Priority for a Chrome browser extension. Also looking to add support to Ledger hardware wallet.
+| HNT mobile wallet.                                  | HNT wallet for iOS and Android
 | Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                         
-| Documentation translation                           | Make docs.helium.com available in other languages                    
+| Documentation translation                           | Make docs.helium.com available in other languages (Mandarin, Spanish, Japanese, Korean)                   
 | Security and/privacy overview                       | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
 | Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up 
 
@@ -46,7 +47,7 @@ Want to contribute immediately? The following projects are looking for owners.
 
 | Project                                             | Notes                                        |  Value  
 |-----------------------------------------------------|----------------------------------------------|----------------------
-| HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | $10,000 of HNT
+| HIP 12 implementation                               | Add remote location assert. See [HIP12](https://github.com/helium/HIP/blob/master/0012-remote-location-assert.md)  | $5,000 of HNT
 | HIP 24 implementation                               | Add hotspot revenue split. See [HIP24](https://github.com/helium/HIP/blob/master/0024-reward-splitting.md) | $5,000 of HNT
 
 ## Resources
