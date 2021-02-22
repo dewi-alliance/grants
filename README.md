@@ -37,7 +37,7 @@ Submit via the general application or email **grants@dewi.org** with questions.
 | Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools. Examples: how much data flowing through the network, how frequently, how many hotspots have transmitted data, geographic distribution of data transmission, transaction activity in DC and HNT burnt.       
 | Rosetta Implementation                              | Add support for Helium to Rosetta. This will speed up integrations with exchanges and wallets. [Learn More](https://www.rosetta-api.org/). [Coinbase Implementation docs](https://github.com/coinbase/rosetta-specifications).
 | HNT browser wallet                                  | A user-friendly wallet for macOS and Windows. Priority for a Chrome browser extension. Also looking to add support to Ledger hardware wallet.
-| HNT mobile wallet.                                  | HNT wallet for iOS and Android
+| HNT mobile wallets.                                 | Add support for HNT on 3rd party mobile wallets, both iOS and Android
 | Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                         
 | Documentation translation                           | Make docs.helium.com available in other languages (Mandarin, Spanish, Japanese, Korean)                   
 | Security and/privacy overview                       | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
