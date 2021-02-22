@@ -2,7 +2,7 @@
 #### Help Us Build the World’s Largest Decentralized Wireless Network
 
 * Grant Program Launch: February 2021
-* Contribution Areas: Developer and User Tools, Token Infrastructure, Community Education
+* Contribution Areas: Developer and User Tools, Analytics, Token Infrastructure, Educational Content
 * [Start a Grant Application](https://dewi-grants.typeform.com/to/D3wdDC0X)
 
 ## Introduction
