@@ -1,5 +1,5 @@
 # DeWi Grant Program
-#### Help Us Build the World’s Largest Decentralized Wireless Network
+#### Be Part of Building the World’s Largest Decentralized Wireless Network
 
 * Grant Program Launch: February 2021
 * Contribution Areas: Developer and User Tools, Analytics, Token Infrastructure, Educational Content
