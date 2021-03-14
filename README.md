@@ -25,10 +25,14 @@ Teams and individuals are evaluated on the following criteria:
 4. Design
 
 ## Inspiration
-DeWi will prioritize any proposal that brings near-term positive impact on the Helium ecosystem. 
-We strongly encourage new ideas and perspectives that provide evidence or affirmation of demand for the product or service in question.
+DeWi is prioritizing projects that drive network growth and adoption. Applicants should strongly consider and share how their project will benefit or encourage developers or network users. At this time grants will not be applied to the acquisition of hotspots or promotion of host networks. 
 
-Absent your own project concept, here are some community inspired themes. 
+A strong application will have the following:
+- A clear deliverable, product, or outcome, as a result of the grant
+- Thoughtful explanation and evidence that speaks to how the project supports network growth and/or adoption (akin to product-market fit)
+- Connection to an audience that benefits or finds utility in the outcome
+
+Below are some community inspired themes but we encourage applicants to think beyond this list. 
 Submit via the general application or email **grants@dewi.org** with questions.
 
 | Project                                             | Notes                                        
