@@ -1,9 +1,10 @@
 # DeWi Grant Program
 #### Be Part of Building the World’s Largest Decentralized Wireless Network
 
+## Applications for Batch 1 are now closed. Information about Batch 2 will be released in May.
+
 * Grant Program Launch: February 2021
 * Contribution Areas: Developer and User Tools, Analytics, Token Infrastructure, Educational Content
-* [Application](https://dewi-grants.typeform.com/to/D3wdDC0X) *Final submissions for batch 1 must be submitted by Friday, 9 April*
 
 ## Introduction
 Powered by the Helium Blockchain, The People’s Network is a global, peer-to-peer wireless network that provides a secure and cost-effective way for devices to interact with the internet. To date, the network provides long-range wireless coverage for LoRaWAN-enabled low-power IoT devices. In the future, the Helium Blockchain and The People’s Network could similarly run on other wireless networks.
