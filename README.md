@@ -3,6 +3,8 @@
 
 ## Applications for Batch 1 are now closed. Information about Batch 2 will be released in May.
 
+
+
 * Grant Program Launch: February 2021
 * Contribution Areas: Developer and User Tools, Analytics, Token Infrastructure, Educational Content
 
