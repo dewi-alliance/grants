@@ -102,6 +102,17 @@ Since the milestones will appear in the grant contract, it helps to describe the
 
 Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered. The level of detail must be enough to later verify that the project meets the specification.
 
+_MS/Roadmap EXAMPLE:_
+
+| Milestone + Date | Deliverable | Summary | Cost |
+| --- | --- | --- | --- |
+| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined | 5,000 USD |
+| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet | 2500 USD |
+| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums | 2750 USD |
+
+
+-----------------------
+
 **Best Practices:**
 
 -Provide a test suite, comprising unit and integration test, along with a guide on how to set up and run.
@@ -112,17 +123,7 @@ Whenever milestones are delivered, we refer to the contract to ensure that every
 
 - Indicate milestone duration as well as number of full-time employees working if it varies from milestone to milestone
 
-_MS/Roadmap EXAMPLE:_
-
-| Milestone + Date | Deliverable | Summary | Cost |
-| --- | --- | --- | --- |
-| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined | 5,000 USD |
-| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet | 2500 USD |
-| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums | 2750 USD |
-
 -----------------------
-
-## The Dewi Alliance is actively looking to fund the following Initiatives: Developer and User Tools, Analytics, Token Infrastructure, Educational Content
 
 
 Here are some previous development proposals:
