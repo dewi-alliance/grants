@@ -1,0 +1,66 @@
+**Template for Submission**
+
+_Please create an issue in the grant repo and use this submission template for painless application development_
+
+**Project:**
+
+_Project Name_
+
+**Elevator Pitch: **
+
+_Think of this as your opportunity to convince the entire community of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet. _
+
+**Total fiat/hnt ask:** _This does not need to be the total budget, but rather the total amount you are asking for the grant._  
+
+**Name and Address:**
+
+_Please provide your legal name and registration number to grants@dewi.org with the link to the submitted issue. 
+This will streamline the contract process and KYC. A lack of this information will delay the contract._
+
+**Team or Project website: (optional)**
+
+**Team or projects social: (optional)**
+
+**Code Repos of team or key applicants:**
+
+(In lieu of public repos, please list a short bio of the applicants.)
+
+https://github.com/\&lt;organisation\&gt;
+
+[https://github.com/](https://github.com/)\&lt;team-member\&gt;
+
+[https://github.com/](https://github.com/)\&lt;team-member1\&gt;
+
+https://github.com/\&lt;team-member2\&gt;
+
+**Project Details:**
+
+We expect a clearly articulated final deliverable for the project.
+
+If the project utilizes legacy or other codebases, please specify this and link to applicable repos. In addition list any specific IP licenses you are utilizing. 
+
+Where relevant please include mockups/designs of any UI/hardware components, API specifications of the core functionality.
+
+It is often helpful to include an overview of the technology stack to be used including any required dependencies. Documentation of core components, protocols, architecture etc. to be deployed within or as the MVP is even better.
+
+**Total Estimated Duration/Hours for Projects Development:**
+
+This should be developer or core team members only and does not account for things like marketing, legal, or outreach.
+
+**Roadmap:**
+
+This section should break out the development roadmap into a number of milestones.
+
+Since the milestones will appear in the grant contract, it helps to describe the expected functionality plus how we can validate functionality.
+
+Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered. The level of detail must be enough to later verify that the project meets the specification.
+
+_MS/Roadmap EXAMPLE:_
+
+| Milestone + Date | Deliverable | Summary | Cost |
+| --- | --- | --- | --- |
+| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined | 5,000 USD |
+| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet | 2500 USD |
+| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums | 2750 USD |
+
+
