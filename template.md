@@ -25,13 +25,13 @@ This will streamline the contract process and KYC. A lack of this information wi
 
 (In lieu of public repos, please list a short bio of the applicants.)
 
-https://github.com/\&lt;organisation\&gt;
+[https://github.com/](https://github.com/)\organization\;
 
-[https://github.com/](https://github.com/)\&lt;team-member\&gt;
+[https://github.com/](https://github.com/)\team-member-0\;
 
-[https://github.com/](https://github.com/)\&lt;team-member1\&gt;
+[https://github.com/](https://github.com/)\team-member-1\;
 
-https://github.com/\&lt;team-member2\&gt;
+[https://github.com/](https://github.com/)\team-member-2\;
 
 **Project Details:**
 
