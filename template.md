@@ -1,6 +1,6 @@
 **Template for Submission**
 
-_Please create an issue in the grant repo and use this submission template for painless application development_
+_Please create an issue in the grant repo and use this submission template for an easier submission build out_
 
 **Project:**
 
@@ -8,7 +8,7 @@ _Project Name_
 
 **Elevator Pitch:**
 
-_Think of this as your opportunity to convince the entire community of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet._
+_Think of this as your opportunity to convince the ommunity of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet and why its needed or matters._
 
 **Total fiat/hnt ask:** _This does not need to be the total budget, but rather the total amount you are asking for the grant._  
 
@@ -25,13 +25,13 @@ This will streamline the contract process and KYC. A lack of this information wi
 
 (In lieu of public repos, please list a short bio of the applicants.)
 
-[https://github.com/](https://github.com/)organization;
+[https://github.com/](https://github.com/)organization
 
-[https://github.com/](https://github.com/)team-member-0;
+[https://github.com/](https://github.com/)team-member-0
 
-[https://github.com/](https://github.com/)team-member-1;
+[https://github.com/](https://github.com/)team-member-1
 
-[https://github.com/](https://github.com/)team-member-2;
+[https://github.com/](https://github.com/)team-member-2
 
 **Project Details:**
 
@@ -41,11 +41,7 @@ If the project utilizes legacy or other codebases, please specify this and link 
 
 Where relevant please include mockups/designs of any UI/hardware components, API specifications of the core functionality.
 
-It is often helpful to include an overview of the technology stack to be used including any required dependencies. Documentation of core components, protocols, architecture etc. to be deployed within or as the MVP is even better.
-
-**Total Estimated Duration/Hours for Projects Development:**
-
-This should be developer or core team members only and does not account for things like marketing, legal, or outreach.
+It is often helpful to include an overview of the tech stack to be used, including any required dependencies. Documentation of core components, protocols, architecture or schematics to be deployed within or as the MVP is even better.
 
 **Roadmap:**
 
@@ -59,8 +55,8 @@ _MS/Roadmap EXAMPLE:_
 
 | Milestone + Date | Deliverable | Summary | Cost |
 | --- | --- | --- | --- |
-| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined | 5,000 USD |
-| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet | 2500 USD |
-| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums | 2750 USD |
+| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined, we estimate 40 developer hours | 5,000 USD |
+| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet, estimated at 20 developer hours | 2500 USD |
+| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums, estimated at 25 core team hours | 2750 USD |
 
 
