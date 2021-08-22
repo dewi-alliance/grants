@@ -67,13 +67,7 @@ Here are some previous development proposals:
 
 | Project                                             | Notes                                        
 |-----------------------------------------------------|----------------------------------------------
-| HNT <> ETH trust minimized bridge                   | Convert HNT into an ERC20 token for use within the DeFi ecosystem    
-| Ongoing improvements for DeWi ETL                   | More dashboards and data analysis tools. Examples: how much data flowing through the network, how frequently, how many hotspots have transmitted data, geographic distribution of data transmission, transaction activity in DC and HNT burnt.       
-| Rosetta Implementation                              | Add support for Helium to Rosetta. This will speed up integrations with exchanges and wallets. [Learn More](https://www.rosetta-api.org/). [Coinbase Implementation docs](https://github.com/coinbase/rosetta-specifications).
-| HNT browser wallet                                  | A user-friendly browser-based wallet. Priority for a Chrome browser extension. Also looking to add support to Ledger hardware wallet.
-| HNT mobile wallets                                 | Add support for HNT on 3rd party mobile wallets, both iOS and Android
-| Manufacturer dashboard                              | Show units sold, online/deployed, HNT burnt                         
-| Documentation translation                           | Make docs.helium.com available in other languages (Mandarin, Spanish, Japanese, Korean)                   
-| Security and/privacy overview                       | Create educational content to help hosts understand how a hotspot will interact with their home network. [Example](https://m.media-amazon.com/images/G/01/sidewalk/final_privacy_security_whitepaper.pdf)
+| Public improvements for DeWi ETL management and improvements   | More dashboards and data analysis tools. Examples: how much data flowing through the network, how frequently, how many hotspots have transmitted data, geographic distribution of data transmission, transaction activity in DC and HNT burnt.       
+| Rosetta Implementation                              | Add support for Helium to Rosetta. This will speed up integrations with exchanges and wallets. [Learn More](https://www.rosetta-api.org/). [Coinbase Implementation docs](https://github.com/coinbase/rosetta-specifications).                 
 | Anti-gaming research                                | In-depth analysis of hotspots and challenge behavior for anomoly detection; build trust scores; more sophisticated data crowdsourcing than current spreadsheet; documentation of current cheating techniques; alerts when suspicious networks pop up. 
-| Support Mapping Improvements                        | Source additional mapping devices, create custom firmware and supporting documentation for easier deployment. 
+|  Mapping UI Improvements                        | Source additional mapping devices, create custom firmware and supporting documentation for easier deployment. 
