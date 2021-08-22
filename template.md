@@ -6,7 +6,7 @@ _Please create an issue in the grant repo and use this submission template for p
 
 _Project Name_
 
-**Elevator Pitch: **
+**Elevator Pitch:**
 
 _Think of this as your opportunity to convince the entire community of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet. _
 
