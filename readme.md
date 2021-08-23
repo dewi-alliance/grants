@@ -24,7 +24,7 @@ The application process itself is fairly easy, although most applicants find cre
 
 We recommend that the scope of the work (SoW) can fit within a 12 month period or less.
 
-ProTip: Milestones should relate to a calender based structure and payments which reflect these milestones.
+ProTip: Milestones should relate to a completed deliverable over an estimated timeframe and payments which reflect these milestones.
 
 For a roadmap, we recommend the following:
 
@@ -34,17 +34,17 @@ For a roadmap, we recommend the following:
 
 Example:
 
-Milestone 1, September 15 2021, $2000 upfront
+Milestone 1, September 30 2021, $2000 upfront
 
-implementation of X feature or functionality, explain
+*implementation of X feature or functionality, explain*
 
-Milestone 2, October 30 2021, $1000 when completed
+Milestone 2, October 31 2021, $5000 when completed
 
-explain additional features and implementation
+*explain additional features and implementation*
 
-Milestone 3, November 20, 2021 $1500 upfront and $1000 when completed
+Milestone 3, November 20 2021, $5000 when completed
 
-final feature implementation and poc/mvp demo
+*final feature implementation and poc/mvp demo*
 
 **see issue (here) for application template**
 
@@ -52,7 +52,7 @@ final feature implementation and poc/mvp demo
 
 **Best Practices:**
 
--Provide a test suite, comprising unit and integration test, along with a guide on how to set up and run.
+- Provide a test suite, comprising unit and integration test, along with a guide on how to set up and run.
 
 - Provide tutorials for the community to onboard or implement your project
 
