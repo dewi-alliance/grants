@@ -4,7 +4,7 @@
 
 The Decentralized Wireless Alliance (DeWi) oversees the grant program.  We provide individuals and project teams with access to funding, technical support, and community resources. Grant proposals are reviewed and approved by the DeWi team and Grant Committee. 
 
-We believe the next generation of wireless innovation will be driven by people working with p2p technologies, this is where you come in. We are actively looking for teams to build the tools and applications that make the decentralized wireless future possible. Our funding is non-diluted, so we never take any ownership over the IP or team. Please note, we prioritize open source GPL3 or similarly licensed when possible, and we typically fund up to a maximum of $100k USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
+We believe the next generation of wireless innovation will be driven by people working with p2p technologies, this is where you come in. We are actively looking for teams to build the tools and applications that make the decentralized wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team. Please note, we prioritize open source GPL3 or similarly licensed when possible, and we typically fund up to a maximum of $100k USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
 
 
  ## Grant Program Criteria
@@ -12,10 +12,9 @@ We believe the next generation of wireless innovation will be driven by people w
 Here is the primary criteria for DeWi grant applicants:
 
 - Implements or utilizes HNT, including but not limited to blockchain and radio/wireless usecases.
-- Max $100,000 USD
 - Timeframe: up to 12 months to Proof of Concept (poc)
 - Preferably Open source license (GPL, MIT, CC)
-- (recommended) A Docker container to deliver the poc, as it removes any installation specific dependencies
+- A Docker container to deliver the poc, as it removes any installation specific dependencies (recommended as applicable)
 - Pass standard KYC requirements
 
  ## How to Apply
