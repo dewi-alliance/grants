@@ -45,7 +45,7 @@ Milestone 3, November 20 2021, $5000 when completed
 
 *final feature implementation and poc/mvp demo*
 
-**Please make a copy of the [Application Template](https://github.com/dewi-alliance/grants/blob/master/template.md) to submit**
+**Please make a copy of the [Application Template](https://github.com/dewi-alliance/grants/blob/master/template.md) and submit as an issue in this repo.**
 
 ----------------------
 
