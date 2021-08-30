@@ -52,17 +52,29 @@ Milestone 3, November 20 2021, $5000 when completed
 **Best Practices:**
 
 - Provide a test suite, comprising unit and integration test, along with a guide on how to set up and run.
-
 - Provide tutorials for the community to onboard or implement your project
-
 - Provide Dockerfiles for the delivery of your projects MVP/PoC
-
 - Indicate milestone duration as well as number of full-time employees working if it varies from milestone to milestone
 
 -----------------------
 
+**Areas of Interest**
 
-Here are some previous development proposals:
+*Based on feedback from the community, here are some projects in no particular order that DeWi is keen to support.*
+
+1. Implement Validator in Rust (some or all of the following: Helium's Libp2p, Blockchain Core, Miner)
+2. Repeatable process to adjust the variables within HIP15 and HIP17
+3. HNT bridges (Ethereum and Solana are of highest interest). Trust minimized is preferred, though any thoughtful proposal will be considered.
+4. Cross platform desktop GUI for Helium Wallet CLI
+5. Alternate block explorer
+6. Alternative onboarding / management apps for manufacturers
+7. Store all blocks on Arweave
+8. Store ledger extracts on Arweave
+9. Data Engineering support (should include a process for getting the last 50k blocks of receipts, gateways, and rewards data as a snapshot -- and be publicly available, updated regularly)
+
+-----------------------
+
+Some examples from Batch 1 project proposals:
 
 | Project                                             | Notes                                        
 |-----------------------------------------------------|----------------------------------------------
