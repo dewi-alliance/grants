@@ -8,7 +8,7 @@ _Project Name_
 
 **Elevator Pitch:**
 
-_Think of this as your opportunity to convince the ommunity of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet and why its needed or matters._
+_Think of this as your opportunity to convince the community of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet and why its needed or matters._
 
 **Total fiat/hnt ask:** _This does not need to be the total budget, but rather the total amount you are asking for the grant._  
 
