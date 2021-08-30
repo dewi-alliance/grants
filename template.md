@@ -2,19 +2,23 @@
 
 _Please create an issue in the grant repo and use this submission template for an easier submission build out_
 
+-----------------
+
 **Project:**
 
 _Project Name_
 
 **Elevator Pitch:**
 
-_Think of this as your opportunity to convince the community of the impact and importance of your ask. This needs to be brief description of the project in 1-2 sentences or a tweet and why its needed or matters._
+_This is your opportunity to convince the community of the impact and importance of your ask. This should be a brief description of the project that captures both the value and deliverable in a few sentences (or a tweet) and why it's needed or matters._
 
-**Total fiat/hnt ask:** _This does not need to be the total budget, but rather the total amount you are asking for the grant._  
+**Total fiat/hnt ask:** 
+
+_This is the amount you're requesting for the grant, not necessarily the total budget._  
 
 **Name and Address:**
 
-_Please provide your legal name and registration number to grants@dewi.org with the link to the submitted issue. 
+_Please provide your legal name and a link to the submitted issue to grants@dewi.org. 
 This will streamline the contract process and KYC. A lack of this information will delay the contract._
 
 **Team or Project website: (optional)**
@@ -39,7 +43,7 @@ We expect a clearly articulated final deliverable for the project.
 
 If the project utilizes legacy or other codebases, please specify this and link to applicable repos. In addition list any specific IP licenses you are utilizing. 
 
-Where relevant please include mockups/designs of any UI/hardware components, API specifications of the core functionality.
+Where relevant, please include mockups/designs of any UI/hardware components, and API specifications of the core functionality.
 
 It is often helpful to include an overview of the tech stack to be used, including any required dependencies. Documentation of core components, protocols, architecture or schematics to be deployed within or as the MVP is even better.
 
@@ -47,7 +51,7 @@ It is often helpful to include an overview of the tech stack to be used, includi
 
 This section should break out the development roadmap into a number of milestones.
 
-Since the milestones will appear in the grant contract, it helps to describe the expected functionality plus how we can validate functionality.
+Since the milestones will appear in the grant contract, it helps to describe the expected functionality and how it can be validated.
 
 Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered. The level of detail must be enough to later verify that the project meets the specification.
 
