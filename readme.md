@@ -65,12 +65,11 @@ Milestone 3, November 20 2021, $5000 when completed
 1. Implement Validator in Rust (some or all of the following: Helium's Libp2p, Blockchain Core, Miner)
 2. Repeatable process to adjust the variables within HIP15 and HIP17
 3. HNT bridges (Ethereum and Solana are of highest interest). Trust minimized is preferred, though any thoughtful proposal will be considered.
-4. Cross platform desktop GUI for Helium Wallet CLI
-5. Alternate block explorer
-6. Alternative onboarding / management apps for manufacturers
-7. Store all blocks on Arweave
-8. Store ledger extracts on Arweave
-9. Data Engineering support (should include a process for getting the last 50k blocks of receipts, gateways, and rewards data as a snapshot -- and be publicly available, updated regularly)
+4. Alternate block explorer
+5. Alternative onboarding / management apps for manufacturers
+6. Store all blocks on Arweave
+7. Store ledger extracts on Arweave
+8. Data Engineering support (should include a process for getting the last 50k blocks of receipts, gateways, and rewards data as a snapshot -- and be publicly available, updated regularly)
 
 -----------------------
 
