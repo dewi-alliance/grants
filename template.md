@@ -1,6 +1,6 @@
 **Template for Submission**
 
-_Please create an issue in the grant repo and use this submission template for an easier submission build out_
+_Please create an issue in the grant repo and use the submission template below. After creating your issue in the grant repo, please complete this simple form to streamline the contract process and KYC: https://forms.gle/a124xJmzeWesPeWj7. This form is the final step in the submission process and a lack of this information will delay the contract._
 
 -----------------
 
@@ -15,11 +15,6 @@ _This is your opportunity to convince the community of the impact and importance
 **Total fiat/hnt ask:** 
 
 _This is the amount you're requesting for the grant, not necessarily the total budget._  
-
-**Name and Address:**
-
-_Please provide your legal name and a link to the submitted issue to grants@dewi.org. 
-This will streamline the contract process and KYC. A lack of this information will delay the contract._
 
 **Team or Project website: (optional)**
 
@@ -62,5 +57,4 @@ _MS/Roadmap EXAMPLE:_
 | MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined, we estimate 40 developer hours | 5,000 USD |
 | MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet, estimated at 20 developer hours | 2500 USD |
 | MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums, estimated at 25 core team hours | 2750 USD |
-
 
