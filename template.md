@@ -1,6 +1,6 @@
 **Template for Submission**
 
-_Please create an issue in the grant repo and use the submission template below. After creating your issue in the grant repo, please complete this simple form to streamline the contract process and KYC: https://forms.gle/a124xJmzeWesPeWj7. This form is the final step in the submission process and a lack of this information will delay the contract._
+_Please create an issue in the [grant repo](https://github.com/dewi-alliance/grants/issues) and use the submission template below. After creating your issue in the grant repo, [please complete this simple form](https://forms.gle/a124xJmzeWesPeWj7) to streamline the contract process and KYC. This form is the final step in the submission process and a lack of this information will delay the contract._
 
 -----------------
 
