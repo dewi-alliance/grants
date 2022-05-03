@@ -1,8 +1,11 @@
+*** 
+**Notice:** The Helium grant program is evolving to better support grantees and innovation on the People's Network. <br>
+Past proposals submitted through GitHub will be viewable, but all new proposals will now be submitted through a simplified form. Take a look at this [Notion doc](https://heliumfoundation.notion.site/The-Helium-Grant-Program-18a0484cf8a1494bae9eb3497b77a3cf) for more details about the current Helium grant program submission process.
+***
+
 **Template for Submission**
 
 _Please create an issue in the [grant repo](https://github.com/dewi-alliance/grants/issues) and use the submission template below. After creating your issue in the grant repo, [please complete this simple form](https://forms.gle/a124xJmzeWesPeWj7) to streamline the contract process and KYC. This form is the final step in the submission process and a lack of this information will delay the contract._
-
------------------
 
 **Project:**
 
