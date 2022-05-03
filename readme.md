@@ -1,3 +1,8 @@
+*** 
+**Notice:** The Helium grant program is evolving to better support grantees and innovation on the People's Network. <br>
+Past proposals submitted through GitHub will be viewable, but all new proposals will now be submitted through a simplified form. Take a look at this [Notion doc](https://heliumfoundation.notion.site/The-Helium-Grant-Program-18a0484cf8a1494bae9eb3497b77a3cf) for more details about the current Helium grant program submission process.
+***
+
 # **GRANTS**
 
 ## Deadline and Notifications: Rolling
